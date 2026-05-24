@@ -10,7 +10,7 @@ rust-version = "1.60"
 [dev-dependencies]
 url = { path = "../url" }
 debugger_test = "0.1"
-debugger_test_parser = "0.1"
+debugger_test_parser = "0.2"
 
 [features]
 debugger_visualizer = []
